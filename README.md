@@ -34,6 +34,12 @@ Entire structure of Dual-ED-Attention-FAM-Net. It has a Temporal Attention Modul
 
 <br>
 
+## Codes
+-[Google Colab notebook](HICCS_Dataset_A_Kinematics_prediction.ipynb) to run the model for **Dataset A**.
+-[Google Colab notebook](HICCS_Dataset_B_Kinematics_prediction.ipynb) to run the model for **Dataset B**.
+
+<br>
+
 ## References
 [1] Md Moniruzzaman, Zhaozheng Yin, Md Sanzid Bin Hossain, Hwan Choi, and Zhishan Guo, “Wearable Motion Capture: Reconstructing and Predicting 3D Human Poses From Wearable Sensors,” IEEE Journal of Biomedical and Health Informatics, vol. 27, no. 11, pp. 5345–5356, 2023.
 
