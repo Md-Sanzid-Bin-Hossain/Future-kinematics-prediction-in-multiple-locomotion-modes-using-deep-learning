@@ -35,8 +35,8 @@ Entire structure of Dual-ED-Attention-FAM-Net. It has a Temporal Attention Modul
 <br>
 
 ## Codes
--[Google Colab notebook](HICCS_Dataset_A_Kinematics_prediction.ipynb) to run the model for **Dataset A**.
--[Google Colab notebook](HICCS_Dataset_B_Kinematics_prediction.ipynb) to run the model for **Dataset B**.
+- [Google Colab notebook](HICCS_Dataset_A_Kinematics_prediction.ipynb) to run the model for **Dataset A**.
+- [Google Colab notebook](HICCS_Dataset_B_Kinematics_prediction.ipynb) to run the model for **Dataset B**.
 
 <br>
 
