@@ -46,6 +46,20 @@ Entire structure of Dual-ED-Attention-FAM-Net. It has a Temporal Attention Modul
 [2] Losing, V., & Hasenj¨ager, M. (2022). A multi-modal gait database of natural everyday-walk in an urban environment. Scientific data, 9(1), 473
 
 
+# Citaions
+
+'''bibtex
+
+@inproceedings{hossain2024predicting,
+  author    = {Md Sanzid Bin Hossain and Zhishan Guo and Naiqi Sui and Hwan Choi},
+  title     = {Predicting Lower Extremity Joint Kinematics Using Multi-Modal Data in the Lab and Outdoor Environment},
+  booktitle = {57th Hawaii International Conference on System Sciences},
+  year      = {2024},
+  url       = {https://scholarspace.manoa.hawaii.edu/items/aff5225a-02ab-4174-902d-f90f1acbc352}
+}
+
+
+
 
 
 
