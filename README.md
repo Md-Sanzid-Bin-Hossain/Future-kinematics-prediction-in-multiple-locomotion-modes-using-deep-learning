@@ -48,8 +48,7 @@ Entire structure of Dual-ED-Attention-FAM-Net. It has a Temporal Attention Modul
 
 # Citaions
 
-'''bibtex
-
+```bibtex
 @inproceedings{hossain2024predicting,
   author    = {Md Sanzid Bin Hossain and Zhishan Guo and Naiqi Sui and Hwan Choi},
   title     = {Predicting Lower Extremity Joint Kinematics Using Multi-Modal Data in the Lab and Outdoor Environment},
